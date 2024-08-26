@@ -24,6 +24,6 @@
     <!-- Set log level for root logger -->
     <root level="INFO">
         <appender-ref ref="CONSOLE" />
-        <appender-ref ref="ROLLING" />
+        <!--<appender-ref ref="ROLLING" />-->
     </root>
 </configuration>
